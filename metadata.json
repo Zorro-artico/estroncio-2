@@ -1,0 +1,6 @@
+{
+  "name": "Estroncio",
+  "description": "Predictor de tiempos de llegada en rutas con Filtro de Kalman Adaptativo Robusto (M-Estimador) y estética inspirada en la historia de la astronomía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
